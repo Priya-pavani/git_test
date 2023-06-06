@@ -1,14 +1,5 @@
 # git_test
 my first git hub repository  
-This code is all about tkinter which is a gui application of python.
-Tkinter is one of the easiest gui applications.
-Here in this repository I want to show all the applications which I have build using python and python tkinter module
-
-So, here are the list of projects that I have build :
-
-	1)Image viewer app using tkinter
-
-	            remaining coming soon.................................
 
 
 
